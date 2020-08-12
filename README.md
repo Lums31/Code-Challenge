@@ -1,7 +1,7 @@
 # Coding Challenge 🏆
 For tokwa friends CJ and Jerome coding challenge.
 
-__Instructions ❗__
+## Instructions 📝
 
 1. fork this repo and.
 2. clone your forked repo in your local machine.
