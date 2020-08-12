@@ -1,4 +1,4 @@
-# Coding Challenge
+# Coding Challenge 🏆
 For tokwa friends CJ and Jerome coding challenge.
 
 __Instructions ❗__
